@@ -3,7 +3,7 @@
     <applicationVisibilities>
         <application>TaroWorks_Enterprise</application>
         <default>false</default>
-        <visible>false</visible>
+        <visible>true</visible>
     </applicationVisibilities>
     <fieldPermissions>
         <editable>true</editable>
